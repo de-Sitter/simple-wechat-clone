@@ -49,12 +49,12 @@ python main.py
 #### Method 2: Running exe file directly
 1. MacOS/Linux
 ```bash
-cd Mac.dist
+cd Mac/Mac.dist
 ./main.bin
 ```
 2. Windows
 ```bash
-cd Windows.dist
+cd Windows/Windows.dist
 ./main.exe
 ```
 ### Starting a Chat Session
