@@ -1,0 +1,27 @@
+# Simple WeChat Clone - Requirements
+
+# main.py
+sys
+os 
+time
+typing
+
+# server.py/client.py
+socket
+threading
+json
+datetime
+platform
+re 
+
+# utils.py
+subprocess
+ipaddress
+
+# MacOS/Linux specific
+readline
+
+# Windows specific
+pyreadline3
+
+
